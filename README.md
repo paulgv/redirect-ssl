@@ -1,4 +1,6 @@
 # redirect-ssl
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/nuxt-community/redirect-ssl.svg)](https://greenkeeper.io/)
 > Connect/Express middleware to enforce https using [is-https](https://www.npmjs.com/package/is-https).
 
 [![npm](https://img.shields.io/npm/dt/redirect-ssl.svg?style=flat-square)](https://npmjs.com/package/redirect-ssl)
